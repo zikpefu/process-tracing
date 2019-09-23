@@ -1,6 +1,6 @@
 Zachary Ikpefua
 ECE 3220
-Project 1
+#Project 1: Tracing, System Calls, and Processes
 README
 
 KNOWN PROBLEMS:

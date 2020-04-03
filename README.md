@@ -1,5 +1,5 @@
-Zachary Ikpefua - Clemson ECE 3220
-# Project 1: Tracing, System Calls, and Processes
+Zachary Ikpefua
+# User-defined Tracing, System Calls, and Processes program
 
 KNOWN PROBLEMS:
 none found
